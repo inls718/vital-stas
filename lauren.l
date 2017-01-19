@@ -3,3 +3,5 @@ Favorite Animal: Pika
 Favorite Food: Shaved Ice
 Year in Program: 1st year MSIS
 Last time you ran out of gas: Never
+
+Least favorite food: That cheese with flies in it.
